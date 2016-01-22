@@ -92,8 +92,8 @@ public class ActivityTwo extends AppCompatActivity {
         list.setAdapter(mSchedule);
         Log.d("breyerror_1", "list.setAdapter(mSchedule);");
 
-        TextView tResult1 = (TextView) findViewById(R.id.VAN_No);
-        tResult1.setTypeface(KnowledgeFont);
+        //TextView tResult1 = (TextView) findViewById(R.id.VAN_No);
+        //tResult1.setTypeface(KnowledgeFont);
 
     }
 
